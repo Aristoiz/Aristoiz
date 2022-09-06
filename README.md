@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi I'm Aristoiz, I'm from Mexico and a student of Insituto Tecnologico de Matamoros. I'm a begginer programmer who wants learn new programming languages👋
+- I'm learning
+  -
+  - Java
+  - Python
+  - C++
+  - C#
+  - Ruby
+- I want learn
+  -
+  - Angular
+  - JavaScript / TypeScript
+  - Kotlin
+  - Django
+  - Laravel
+  - Node
+  - Git
+  - Go
+  
+  
+  
 
-<!--
-**Aristoiz/Aristoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
